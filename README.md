@@ -1,8 +1,26 @@
-# React + Vite
+# Livesitter
+Welcome to demo project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project has two repo one client and second server
 
-Currently, two official plugins are available:
+## Initial setup
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Clone this repo
+install all dependency
+After that, cd server and do npm install to install all dependency
+
+## To run client
+
+- To run client, there is no need to run any cd command; just do
+- `npm start`
+
+## To run server
+
+- cd server
+- `npm dev`
+
+## To get the RTP url
+
+- `https://www.youtube.com/watch?v=qQeBapQAifs`
+- Watch the above video to get your own url
+- If you don't have a URL, you can use our existing one to watch live stream
